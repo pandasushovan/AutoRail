@@ -1,0 +1,16 @@
+RailAutomation
+  src
+    automation.library
+      MainDriver.java
+      PropertyFileReader.java
+  JRE System Library [JavaSE-1.8]
+  Maven Dependencies
+  bin
+  CofigFiles
+    AppConfig.properties
+    locator.properties
+  driver
+    chromedriver.exe
+  screenshot
+  target
+  pom.xml
